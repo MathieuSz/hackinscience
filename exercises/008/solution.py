@@ -1,5 +1,5 @@
 #!/usr/bin/python2.7
-caract = "Hello World !"
-n=len(caract)
-for k in range(0, n):
-print(caract[k])
+def main():
+	letters = ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d", " ", "!"]
+	for i in letters:
+		print(i)

@@ -1,5 +1,5 @@
 #!/usr/bin/python2.7
-def main():
-    list = ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d", " ", "!"]
-    for i in list:
-       print(i)
+a={"Hello World !"}
+n=len(a)
+for k in range(0,n):
+print(a[k])

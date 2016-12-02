@@ -1,5 +1,5 @@
 #!/usr/bin/python2.7
-a={"Hello World !"}
-n=len(a)
+caract = "Hello World !"
+n=len(caract)
 for k in range(0,n):
-print(a[k])
+	print(caract[k])
